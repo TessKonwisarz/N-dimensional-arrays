@@ -1,1 +1,1 @@
-# Zooming-into-N-dimensional-arrays
+#N-dimensional-arrays
